@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore CSV files if not necessary to push
+data/*.csv
